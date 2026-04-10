@@ -1,0 +1,7 @@
+node_modules/
+artifacts/**/node_modules/
+dist/
+artifacts/**/dist/
+.local/
+artifacts/**/.replit-artifact/
+.DS_Store
